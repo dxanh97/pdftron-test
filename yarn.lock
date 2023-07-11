@@ -1666,6 +1666,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@pdftron/webviewer@^10.2.3":
+  version "10.2.3"
+  resolved "https://registry.yarnpkg.com/@pdftron/webviewer/-/webviewer-10.2.3.tgz#a8b5fef5334721e97b7306eea78b18d8ae0e9690"
+  integrity sha512-oi3v50E5mKkOltLVUMPILT0loevy24jXE5ZAyUG/VDqNHNXhSk51xDPj4BQbkPTXKt5at284pI3ymnjv+XacaQ==
+
 "@pmmmwh/react-refresh-webpack-plugin@^0.5.3":
   version "0.5.10"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.5.10.tgz#2eba163b8e7dbabb4ce3609ab5e32ab63dda3ef8"
